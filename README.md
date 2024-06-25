@@ -8,3 +8,9 @@ Major technical changes:
 - Greenshot 1.x was using Windows.Forms, this editor will be based on WPF
 - Greenshot 1.x used serializing for it's file format, Greenshot 2.x will use googles protobuf.
 - Uses MVVM and dependency injection for the UI, making it possible to extend the functionality with additional libraries.
+
+## What was old is now new
+
+This was forked from the official repository (greenshot/Greenshot2.Editor) -Hannahbelle (06/24/2024)
+
+
